@@ -210,6 +210,4 @@ devex-prima-analyzer/
 
 Internal IOM tool - Not for public distribution.
 
-## Support
 
-Contact: RMD@iom.int
