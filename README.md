@@ -193,9 +193,7 @@ devex-prima-analyzer/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
-└── tests/
-    ├── test_full.py        # XML parsing test
-    └── test_matching.py    # PRIMA matching test
+
 ```
 
 ## Requirements
