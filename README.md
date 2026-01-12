@@ -339,14 +339,7 @@ requests>=2.31.0
 | All items flagged | Normal for some searches; manually verify critical items |
 | Timeout error | Web search can take 2+ minutes; try again |
 
-## Version History
 
-| Version | Changes |
-|---------|---------|
-| v4.0 | Hallucination safeguards, source URL tracking, matches export |
-| v3.0 | Funding Highlights module, web search integration |
-| v2.0 | PRIMA matching, AI explanations |
-| v1.0 | Initial Devex XML parser |
 
 ## License
 
